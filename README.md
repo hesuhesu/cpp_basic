@@ -1,1 +1,1 @@
-# cpp_study
+# cpp_basic
